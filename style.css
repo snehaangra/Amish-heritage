@@ -5,3 +5,9 @@ h1 {
 body{
 background-color: #ededed !important;
 } 
+
+li:before {
+  content: "✦" !important;
+  font-size:12px !important;
+  margin-right:10px !important;
+}
