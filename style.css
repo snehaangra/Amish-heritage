@@ -1,9 +1,9 @@
 h1 { 
-  color: #162075 !important; 
+  color: #476b7bff !important; 
 }
 
 body{
-background-color: #ededed !important;
+background-color: #f9eed2ff !important;
 } 
 
 li:before {
@@ -11,3 +11,6 @@ li:before {
   font-size:12px !important;
   margin-right:10px !important;
 }
+
+li {
+  color:#95504bff !important;
