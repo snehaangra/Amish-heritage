@@ -42,13 +42,13 @@ a:active{
 
 @keyframes titles {
   from {
-    color:#B31942;
+    color:#B31942 !important;
   }
   to {
-    color:#FFFFFF;
+    color:#FFFFFF !important;
   }
   to {
-    color:#0A3161;
+    color:#0A3161 !important;
   }
 }
 
