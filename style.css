@@ -36,6 +36,6 @@ a:hover{
   color:#d7be87 !important;
 }
 a:active{
-  text-decoration-style:underline !important;
+  text-decoration-style: dashed !important;
   color:#83734f !important;
 }
