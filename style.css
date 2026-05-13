@@ -7,7 +7,7 @@ background-color: #f7f1e1ff !important;
 } 
 
 li::marker {
-  content: "✧ ";
+  content: "✦  ";
 }
 
 li {
