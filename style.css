@@ -27,7 +27,9 @@ p {
   font-family:monospace !important;
 }
 
-a {
+a{
   color:#e9cf96ff !important;
   font-family:monospace !important;
 }
+a:hover{
+  font-size: 15 !important;
