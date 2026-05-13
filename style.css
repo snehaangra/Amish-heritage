@@ -32,4 +32,6 @@ a{
   font-family:monospace !important;
 }
 a:hover{
-  font-size: 50px !important;
+  text-decoration-style: wavy !important;
+  font-size: 50 !important;
+}
