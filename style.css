@@ -6,7 +6,7 @@ body{
 background-color: #f7f1e1ff !important;
 } 
 
-li:before {
+li::before {
   content: "✦" !important;
   font-size:12px !important;
   margin-right:10px !important;
