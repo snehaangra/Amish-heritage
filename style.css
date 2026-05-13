@@ -14,20 +14,21 @@ li::marker {
 
 li {
   color:#0A3161 !important;
-    font-family:monospace !important;
+  font-family:monospace !important;
 }
 
 h3 {
   color:#0A3161 !important;
-    font-family:monospace !important;
+  font-family:monospace !important;
 }
 
 p {
   color:#0A3161 !important;
-    font-family:monospace !important;
+  font-family:monospace !important;
+  line-height: 2 !important;
 }
 
 a {
   color:#e9cf96ff !important;
-    font-family:monospace !important;
+  font-family:monospace !important;
 }
