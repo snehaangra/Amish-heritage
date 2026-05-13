@@ -52,3 +52,7 @@ a:active{
 h1{
   animation:titles 3s ease-in-out infinite alternate !important;
 }
+
+img {
+  width:300px;
+}
