@@ -39,3 +39,19 @@ a:active{
   text-decoration-style: dashed !important;
   color:#83734f !important;
 }
+
+@keyframes titles {
+  from {
+    color:#B31942;
+  }
+  to {
+    color:#FFFFFF;
+  }
+  from {
+    color:#0A3161;
+  }
+}
+
+h1{
+  animation:titles 3s ease-in-out infinite alternate;
+}
