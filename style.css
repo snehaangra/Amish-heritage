@@ -1,5 +1,6 @@
 h1 { 
-  color: #95504bff  !important; 
+  color: #0A3161  !important; 
+  font:sans-serif !important;
 }
 
 body{
@@ -11,17 +12,21 @@ li::marker {
 }
 
 li {
-  color:#476b7bff !important;
+  color:#0A3161 !important;
+    font:sans-serif !important;
 }
 
 h3 {
-  color:#476b7bff !important;
+  color:#0A3161 !important;
+    font:sans-serif !important;
 }
 
 p {
-  color:#95504bff !important;
+  color:#0A3161 !important;
+    font:sans-serif !important;
 }
 
 a {
   color:#e9cf96ff !important;
+    font:sans-serif !important;
 }
