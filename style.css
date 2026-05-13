@@ -55,4 +55,9 @@ h1{
 
 img {
   width:300px !important;
+  float:right;
+}
+
+.clothing {
+  width:500 px !important;
 }
