@@ -33,5 +33,9 @@ a{
 }
 a:hover{
   text-decoration-style: wavy !important;
-  font-size: 50 !important;
+  color:#d7be87 !important;
+}
+a:active{
+  text-decoration-style:underline !important;
+  color:#83734f !important;
 }
