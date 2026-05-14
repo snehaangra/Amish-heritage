@@ -40,19 +40,6 @@ a:active{
   color:#83734f !important;
 }
 
-@keyframes titles {
-  from {
-    color:#B31942 !important;
-  }
-  to {
-    color:#0A3161 !important;
-  }
-}
-
-h1{
-  animation:titles 3s ease-in-out infinite alternate !important;
-}
-
 img {
   width:300px !important;
   float: right !important;
