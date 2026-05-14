@@ -55,6 +55,7 @@ h1{
 
 img {
   width:300px !important;
+  float: right !important;
 }
 
 h4 {
