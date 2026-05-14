@@ -58,10 +58,6 @@ img {
   float:right;
 }
 
-.clothing {
-  width:500px !important;
-}
-
 h4 {
   color: #0A3161  !important; 
   font-family:monospace !important;
@@ -70,10 +66,4 @@ h4 {
 h2 {
   color: #0A3161  !important; 
   font-family:monospace !important;
-}
-
-.zippers {
-   width:107.04px !important;
-  height:249.6px !important;
-  float:right;
 }
