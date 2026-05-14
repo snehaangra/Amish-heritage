@@ -54,8 +54,23 @@ h2 {
   color: #0A3161  !important; 
   font-family:monospace !important;
 }
+
+.buttons {
+  width:171px !important;
+  height:262px !important;
+  float:right;
+}
+
 .zippers {
   width:107px !important;
   height:250px !important;
 }
+.amish-hair {
+  width:181px !important;
+  height:198px !important;
+}
 
+.kapps {
+  width:204px !important;
+  height:306px !important;
+}
