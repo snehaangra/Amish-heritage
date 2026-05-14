@@ -56,8 +56,8 @@ h2 {
 }
 
 .buttons {
-  width:168px !important;
-  height:252px !important;
+  width:171px !important;
+  height:262px !important;
   float:right;
 }
 
@@ -68,4 +68,9 @@ h2 {
 .amish-hair {
   width:181px !important;
   height:198px !important;
+}
+
+.kapps {
+  width:204px !important;
+  height:306px !important;
 }
